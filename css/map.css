@@ -47,13 +47,6 @@ a {
     margin: 7px 0 0;
 }
 
-/* Legend style */
-.figure {
-    position: absolute;
-    bottom: 500px;
-    left: 500px;
-    padding: 10px;
-
 /* Control style */
 .ol-control {
     background-color: rgba(0,0,0,0.35);
